@@ -1,5 +1,5 @@
-Esto es una práctica
+Introducción a GIT y Python
 
-Esto es para probar SSH :)
+Colaboradores 
 
-Esto es una prueba de conflicto
+Adolfo
